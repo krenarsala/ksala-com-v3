@@ -1,2 +1,2 @@
-# ksala-com
+# ksala.com
 My personal website
